@@ -49,4 +49,4 @@ run the command
 Haotian Shi, Wenrui Li, Yu Yang, Yang Zheng, Xiaodi Zhang  
 {u6158063, u6361099, u6412985, u6287751, u6368740}@anu.edu.au
 
-For more details, see the documentation [Deep License Plate Recognition](Deep License Plate Recognition.pdf).
+For more details, see the documentation [Deep License Plate Recognition](https://github.com/realmadrid/license-plate-reader/blob/master/Deep%20License%20Plate%20Recognition.pdf).
