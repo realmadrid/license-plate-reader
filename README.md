@@ -1,5 +1,5 @@
 # Deep License Plate Recognition
-License Plate Recognition (LPR) system is widely used in our daily life. Re-searchers have developed several methods to implement LPR system by us-ing morphology method, machine learning, or neural network. Our group project aims to implement LPR system. Our approach combines morphology method in plate detection and character segmentation, and neural network in character recognition. 
+License Plate Recognition (LPR) system is widely used in our daily life. Researchers have developed several methods to implement LPR system by using morphology method, machine learning, or neural network. Our group project aims to implement LPR system. Our approach combines morphology method in plate detection and character segmentation, and neural network in character recognition. 
 
 ![result](./assets/result.jpg)
 
